@@ -1,0 +1,1 @@
+{"prompt":"S3 bucket 'backups' with 500GB rarely accessed","completion":"Recommend lifecycle policy to transition to S3 Glacier after 30 days"}

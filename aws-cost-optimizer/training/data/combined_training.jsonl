@@ -1,0 +1,2 @@
+{"prompt":"EC2 instance t2.micro with 15% CPU utilization","completion":"Recommend downsizing to t3.small for 30% cost savings"}
+{"prompt":"Stopped EC2 instance i-123456 inactive for 30 days","completion":"Recommend terminating instance to eliminate $8.47/month cost"}{"prompt":"S3 bucket 'backups' with 500GB rarely accessed","completion":"Recommend lifecycle policy to transition to S3 Glacier after 30 days"}
